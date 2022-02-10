@@ -12,5 +12,5 @@ Learning web development with a focus on backend development using Angela Yu's c
 - Keyboard and Mouse event listeners.
 - Higher order and call back functions.
 
-## Simon Gamw Challenge - What I Learned
+## Simon Game Challenge - What I Learned
 - Jquery and Jquery Animations.
