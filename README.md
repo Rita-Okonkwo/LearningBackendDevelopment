@@ -1,4 +1,4 @@
-# LearningBackendDevelopment
+# Learning Backend Development
 Learning web development with a focus on backend development using Angela Yu's course on Udemy. I would be updating this ReadMe regularly.
 
 ## Dicee Challenge - What I Learned
@@ -11,3 +11,6 @@ Learning web development with a focus on backend development using Angela Yu's c
 - Creating objects using function constructors
 - Keyboard and Mouse event listeners
 - Higher order and call back functions.
+
+## Simon Gamw Challenge - What I Learned
+- Jquery and Jquery Animation
