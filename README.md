@@ -14,3 +14,8 @@ Learning web development with a focus on backend development using Angela Yu's c
 
 ## Simon Game Challenge - What I Learned
 - Jquery and Jquery Animations.
+
+## Calculator Challenge - What I Learned
+- How to initialize a node project using npm.
+- How to use the express framework for building web backend servers
+- How to parse information from an HTML form to a speciific server route
