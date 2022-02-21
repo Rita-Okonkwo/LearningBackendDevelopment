@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My First Server-side project",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rita-Okonkwo/LearningBackendDevelopment.git"
+  },
+  "author": "Rita Okonkwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rita-Okonkwo/LearningBackendDevelopment/issues"
+  },
+  "homepage": "https://github.com/Rita-Okonkwo/LearningBackendDevelopment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
