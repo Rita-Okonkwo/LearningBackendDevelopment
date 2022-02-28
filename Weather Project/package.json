@@ -1,0 +1,22 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "A simple weather project build using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rita-Okonkwo/LearningBackendDevelopment.git"
+  },
+  "author": "Rita Okonkwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rita-Okonkwo/LearningBackendDevelopment/issues"
+  },
+  "homepage": "https://github.com/Rita-Okonkwo/LearningBackendDevelopment#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
