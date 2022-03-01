@@ -19,3 +19,10 @@ Learning web development with a focus on backend development using Angela Yu's c
 - How to initialize a node project using npm.
 - How to use the express framework for building web backend servers
 - How to parse information from an HTML form to a speciific server route
+  
+## Weather App - What I Learned
+- How to work with external APIs using express
+- API Endpoints, paths and parameters
+- Testing API requests using postman
+- Making GET requests to external APIs using Node HTTPS module
+- Parsing JSON
