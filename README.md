@@ -26,3 +26,11 @@ Learning web development with a focus on backend development using Angela Yu's c
 - Testing API requests using postman
 - Making GET requests to external APIs using Node HTTPS module
 - Parsing JSON
+
+## Newsletter Sign Up - What I learned
+- How to work utilize the Mailchimp API to create an email marketing list
+- How to use bootstrap to simplify my development process. Bootstrap was used for the frontend.
+- How to load static files remotely using express
+- How to send JSON data to an external server using JSON.stringify
+- How to deploy on heroku and set the environment variables on heroku
+- Checkout my deployed newsletter sign up project: https://riri-newsletter-sign-up.herokuapp.com/
