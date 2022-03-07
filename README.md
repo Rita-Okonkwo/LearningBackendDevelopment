@@ -34,3 +34,7 @@ Learning web development with a focus on backend development using Angela Yu's c
 - How to send JSON data to an external server using JSON.stringify
 - How to deploy on heroku and set the environment variables on heroku
 - Checkout my deployed newsletter sign up project: https://riri-newsletter-sign-up.herokuapp.com/
+  
+## To Do List V1 - What I learned
+- Templating with EJS
+- Creating and exporting my own custom local node modules
