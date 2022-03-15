@@ -38,3 +38,9 @@ Learning web development with a focus on backend development using Angela Yu's c
 ## To Do List V1 - What I learned
 - Templating with EJS
 - Creating and exporting my own custom local node modules
+  
+## EJS Challenge - What I learned
+- Templating with EJS (learned more about partials)
+- How to make use of Lodash
+- How to make use of Express routing parameters
+ 
